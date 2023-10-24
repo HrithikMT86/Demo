@@ -3,3 +3,5 @@ The Curriculum is a prescribed course structure for each Department. It includes
 There are two regular semesters in a year at the Institute: the Autumn Semester (Semester 1) that starts in July and the Spring Semester (Semester 2) that starts in January. Additionally, there is a Summer Term during the vacation period of May-June.
 Credits are earned by students by successfully completing courses and other academic activities each semester. The number of credits associated with a course or activity is based on the expected number of hours of work per week.
 Credits for Theory Courses and Laboratory Courses are calculated differently. For Theory Courses, the credit (C) is obtained by multiplying the number of lecture (L) and tutorial (T) hours per week by two (2), and adding any practical (P) hours if applicable. For Laboratory Courses, the credit (C) is obtained by multiplying the number of practical hours per week by one (1), and adding any tutorial hours if applicable. The formula for credit calculation is C = 2xL + 2xT + P. Additionally, students are expected to spend one hour per week outside of class for every lecture/tutorial.
+
+hello
